@@ -91,7 +91,7 @@ Develop and compare three machine learning models for essay scoring and evaluate
 ## 🚀 How to Run
 
 ### Option 1 — Google Colab (Recommended)
-
+https://colab.research.google.com/drive/1c54ZZ4JUakd3f5eY805r4mRurYnNIJ_t?authuser=1
 1. Open the notebook link above
 2. Go to **Runtime → Run All**
 3. Upload the dataset CSV when prompted
