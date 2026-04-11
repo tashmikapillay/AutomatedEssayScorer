@@ -9,9 +9,9 @@
 
 | Name | Student Number |
 |------|---------------|
-| Tahsheel Briglal | 223149731 |
-| Jeryn Jadav Naidoo | 223009245 |
 | Tashmika Pillay | 223097300 |
+| Jeryn Jadav Naidoo | 223009245 |
+| Tahsheel Briglal | 223149731 |
 
 ---
 
