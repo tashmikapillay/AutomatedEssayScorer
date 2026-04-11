@@ -1,7 +1,7 @@
 # 📝 Automated Essay Scoring
 
 > An NLP-based machine learning project that automatically evaluates and scores student essays.
-> **Group Project · COMP316 Natural Language Processing · UKZN · 2024**
+> **Group Project 
 
 ---
 
@@ -117,8 +117,7 @@ seaborn
 ## 📁 Repository Structure
 AutomatedEssayScorer/
 ├── AutomatedEssayScorer.ipynb   # Main notebook
-├── notes/                        # Project report & research notes PDF
-├── requirements.txt
+├── ProjectReport                        # Project report & research notes PDF
 └── README.md
 
 ---
