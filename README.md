@@ -145,6 +145,3 @@ AutomatedEssayScorer/
 ---
 
 
-
-
-### Requirements
