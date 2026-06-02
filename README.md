@@ -1,8 +1,6 @@
 # 📝 Automated Essay Scoring
 
 > An NLP-based machine learning project that automatically evaluates and scores student essays.
-> **Group Project 
-
 ---
 
 ## 👥 Team
